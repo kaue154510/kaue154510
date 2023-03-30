@@ -3,6 +3,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kauerodrigues069)
 ![Kaue GitHub stats](https://github-readme-stats.vercel.app/api?username=kaue154510&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaue154510)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="dispaly: inline_block"><br/>
